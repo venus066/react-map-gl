@@ -296,9 +296,3 @@ Run tests with
 ```shell
 npm test
 ```
-
-## Team
-
-| [![Stepan Kuzmin](https://github.com/stepankuzmin.png?size=144)](https://github.com/stepankuzmin) | [![Artem Boyur](https://github.com/boyur.png?size=144)](https://github.com/boyur) | [![Andrey Bakhvalov](https://github.com/device25.png?size=144)](https://github.com/device25) |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [Stepan Kuzmin](https://github.com/stepankuzmin)                                                  | [Artem Boyur](https://github.com/boyur)                                           | [Andrey Bakhvalov](https://github.com/device25)                                              |
